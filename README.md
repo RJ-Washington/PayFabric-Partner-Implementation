@@ -33,7 +33,7 @@ o	Technical Documentation: [Credit Card / eCheck Wallet](https://github.com/PayF
 
 •	**Payment Intent**
 
-o	First create a Transaction record as an intent to process a payment, optionally (but recommended) to include Level II & Level III transaction data for B2B payments.
+o	First create a Transaction record as an intent to process a payment, optionally (but recommended) to include [Level II & Level III](https://github.com/PayFabric/APIs/blob/master/PayFabric/Sections/Level%202%20and%20Level%203%20Fields.md) transaction data for B2B payments.
 
 o	The payment intent (Transaction record) can be processed using different method.
 
@@ -56,12 +56,10 @@ o	The MRHPP is loaded into an iFrame through our JavaScript SDK.  It offers “S
 o	Submitting the form will initiate payment processing.
 
 o	Technical Documentation: [JavaScript SDK](https://github.com/PayFabric/Portal/blob/master/PayFabric/Sections/JavaScript%20SDK.md)
-
+![MRHPP](https://user-images.githubusercontent.com/109090573/206205716-5725007b-10a2-4b26-a65e-334d96b9a89b.png)
 •	**Styling and Full Control Over Hosted Pages**
 
 o	As part of the Configuration settings, a Theme can be used to insert your own CSS and JavaScript to give you full control over the hosted page even when it’s embedded in an iFrame.
 
 o	Possible use case includes hiding the form submission button from the hosted page and control form submission from your own page.
- 
-
-
+![Themes](https://user-images.githubusercontent.com/109090573/206207176-c98b4941-c084-4615-b454-0de25fed8aab.png)
