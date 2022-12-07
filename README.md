@@ -12,8 +12,6 @@ PayFabric Support can assist with create a PayFabric account with partner portal
 •	The PayFabric Partner Portal provides ability to manage and control all aspects of its merchants, including Configurations, as well as Device credentials to gain API access.
 
 •	The partner controls Configuration profiles, which dictates the settings on all merchants.
-
-[Sign up for a sandbox PayFabric account](https://sandbox.payfabric.com/Portal/Account/Register)
  
 
 # New Merchants
