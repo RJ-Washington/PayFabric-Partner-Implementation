@@ -12,6 +12,8 @@ PayFabric Support can assist with create a PayFabric account with partner portal
 •	The PayFabric Partner Portal provides ability to manage and control all aspects of its merchants, including Configurations, as well as Device credentials to gain API access.
 
 •	The partner controls Configuration profiles, which dictates the settings on all merchants.
+
+ [PayFabric Partner Portal User Guide](https://github.com/RJ-Washington/PayFabric-Partners/files/10178567/PayFabric-Partner-Guide.docx)
  
 
 # New Merchants
@@ -64,3 +66,4 @@ o	As part of the Configuration settings, a Theme can be used to insert your own 
 
 o	Possible use case includes hiding the form submission button from the hosted page and control form submission from your own page.
 ![Themes](https://user-images.githubusercontent.com/109090573/206207176-c98b4941-c084-4615-b454-0de25fed8aab.png)
+
