@@ -10,7 +10,7 @@ This is an overview of EVO’s payment engine, PayFabric, as well as an outline 
 
 •	The partner controls Configuration profiles, which dictates the settings on all merchants.
 
-[Sign up for a sandbox PayFabric account here](https://sandbox.payfabric.com/Portal/Account/Register)
+[Sign up for a sandbox PayFabric account](https://sandbox.payfabric.com/Portal/Account/Register)
  
 
 # New Merchants
