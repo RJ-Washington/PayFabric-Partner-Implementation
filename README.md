@@ -3,7 +3,7 @@
 This is an overview of EVO’s payment engine, PayFabric, as well as an outline of basic partner usage and implementation.
 
 
-# PayFabric® 
+# [PayFabric®](https://github.com/PayFabric/Portal/tree/master/PayFabric) 
 # PayFabric Partner Portal
 
 •	The PayFabric Partner Portal provides ability to manage and control all aspects of its merchants, including Configurations, as well as Device credentials to gain API access.
