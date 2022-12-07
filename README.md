@@ -1,6 +1,6 @@
 # Welcome PayFabric Partners! 
 
-This is an overview of EVO’s payment engine, PayFabric, as well as an outline of basic Partner usage.
+This is an overview of EVO’s payment engine, PayFabric, as well as an outline of basic partner usage and implementation.
 
 
 # PayFabric® 
