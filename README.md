@@ -17,7 +17,7 @@ This is an overview of EVO’s payment engine, PayFabric, as well as an outline 
 
 •	Each new merchant will inherit settings from the partners Configuration profile.
 
-•	Each merchant is required to have their own Device credentials for accessing the merchant’s account via APIs.
+•	**Each merchant is required to have their own Device credentials for accessing the merchant’s account via APIs.**
 
 •	Technical Documentation: [API Authentication](https://github.com/PayFabric/APIs/blob/master/PayFabric/Sections/Authentication.md) 
 
@@ -35,7 +35,7 @@ o	Technical Documentation: [Credit Card / eCheck Wallet](https://github.com/PayF
 
 o	First create a Transaction record as an intent to process a payment, optionally (but recommended) to include [Level II & Level III](https://github.com/PayFabric/APIs/blob/master/PayFabric/Sections/Level%202%20and%20Level%203%20Fields.md) transaction data for B2B payments.
 
-o	The payment intent (Transaction record) can be processed using different method.
+o	The payment intent (Transaction record) can be processed using different methods.
 
 o	Technical Documentation: [Create a Transaction](https://github.com/PayFabric/APIs/blob/master/PayFabric/Sections/Transactions.md#create-a-transaction)
 
