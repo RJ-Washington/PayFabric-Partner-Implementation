@@ -65,5 +65,7 @@ o	Technical Documentation: [JavaScript SDK](https://github.com/PayFabric/Portal/
 o	As part of the Configuration settings, a Theme can be used to insert your own CSS and JavaScript to give you full control over the hosted page even when it’s embedded in an iFrame.
 
 o	Possible use case includes hiding the form submission button from the hosted page and control form submission from your own page.
+
+o	Technical Documentation: [Themes](https://github.com/PayFabric/Portal/blob/master/PayFabric/Sections/Themes.md)
 ![Themes](https://user-images.githubusercontent.com/109090573/206207176-c98b4941-c084-4615-b454-0de25fed8aab.png)
 
