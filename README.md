@@ -20,7 +20,7 @@ PayFabric Support can assist with create a PayFabric account with partner portal
 
 •	Each new merchant will inherit settings from the partners Configuration profile.
 
-•	**Each merchant is required to have their own Device credentials for accessing the merchant’s account via APIs.**
+•	**Each merchant is required to have their own [Device credentials](https://www.payfabric.com/API/Help/Api/POST-Merchant-merchantId-Device) for accessing the merchant’s account via APIs.**
 
 •	Technical Documentation: [API Authentication](https://github.com/PayFabric/APIs/blob/master/PayFabric/Sections/Authentication.md) 
 
