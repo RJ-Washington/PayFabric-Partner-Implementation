@@ -3,7 +3,7 @@
 This is an overview of EVO’s payment engine, PayFabric, as well as an outline of basic partner usage and implementation steps designed to provide the fastest route to market.
 
 
-# [PayFabric®](https://github.com/PayFabric/Portal/tree/master/PayFabric) 
+# [What is PayFabric®?](https://github.com/PayFabric/Portal/tree/master/PayFabric) 
 
 PayFabric Support can assist with create a PayFabric account with partner portal access. All the partner needs to do is activate their PayFabric account & set their preferred password. Please reach out to support@payfabric.com in order to have partner access provisioned. 
 
