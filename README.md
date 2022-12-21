@@ -13,7 +13,7 @@ PayFabric Support can assist with create a PayFabric account with partner portal
 
 •	The partner controls Configuration profiles, which dictates the settings on all merchants.
 
- [PayFabric Partner Portal User Guide](https://github.com/RJ-Washington/PayFabric-Partners/files/10178567/PayFabric-Partner-Guide.docx)
+ [PayFabric Partner Portal User Guide](https://github.com/RJ-Washington/PayFabric-Partners/files/10278060/PayFabric-Partner-Guide.pdf)
  
 
 # New Merchants
@@ -68,4 +68,5 @@ o	Possible use case includes hiding the form submission button from the hosted p
 
 o	Technical Documentation: [Themes](https://github.com/PayFabric/Portal/blob/master/PayFabric/Sections/Themes.md)
 ![Themes](https://user-images.githubusercontent.com/109090573/206207176-c98b4941-c084-4615-b454-0de25fed8aab.png)
+
 
